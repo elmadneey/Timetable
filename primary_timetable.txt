@@ -1,3 +1,13 @@
+B
+R
+E
+A
+K
+F
+A
+S
+T
+
 DARUL BAYAN ACADEMY, SOKOTO
 NO. 29 ZARIA ROAD ADJACENT AL-FIJIR CLINIC, SOKOTO
 GENERAL TIMETABLE FOR PRIMARY SECTION
@@ -32,7 +42,7 @@ English
 
 Basic Science
 
-BREAKFAST
+
 
 Computer
 
@@ -46,7 +56,7 @@ Mathematics
 
 Handwriting
 
-BREAKFAST
+
 
 Health Education
 
@@ -60,7 +70,7 @@ Computer
 
 Mathematics
 
-BREAKFAST
+
 
 Handwriting
 
@@ -72,7 +82,7 @@ Civic Education
 
 Islamic Studies
 
-BREAKFAST
+
 
 Qur’an & Hadith
 
@@ -84,7 +94,7 @@ Arabic
 
 Qur’an & Hadith
 
-BREAKFAST
+
 
 P RY 1
 
@@ -94,7 +104,7 @@ English
 
 Social Studies
 
-BREAKFAST
+
 
 P RY 2
 
@@ -104,7 +114,7 @@ Mathematics
 
 Hausa
 
-BREAKFAST
+
 
 P RY 3
 
@@ -143,7 +153,7 @@ Basic Science
 
 Computer
 
-BREAKFAST
+
 
 Social Studies
 
@@ -151,7 +161,7 @@ Civic Education
 
 Arabic
 
-BREAKFAST
+
 
 P RY 5
 
@@ -161,7 +171,7 @@ Basic Science
 
 Qur’an & Hadith
 
-BREAKFAST
+
 
 P RY 1
 
@@ -171,7 +181,7 @@ Mathematics
 
 Social Studies
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -183,7 +193,7 @@ Computer
 
 Hausa
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -195,7 +205,7 @@ Handwriting
 
 Mathematics
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -205,7 +215,7 @@ Civic Education
 
 Arabic
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -215,7 +225,7 @@ Basic Science
 
 Qur’an & Hadith
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -223,7 +233,7 @@ Mathematics
 
 Social Studies
 
-BREAKFAST
+
 
 Computer
 
@@ -237,7 +247,7 @@ English
 
 Social Studies
 
-BREAKFAST
+
 
 Health Education
 
@@ -251,7 +261,7 @@ Basic Science
 
 Mathematics
 
-BREAKFAST
+
 
 Arabic
 
@@ -265,7 +275,7 @@ Hausa
 
 Arabic
 
-BREAKFAST
+
 
 Qur’an & Hadith
 
@@ -281,7 +291,7 @@ Basic Science
 
 Qur’an & Hadith
 
-BREAKFAST
+
 
 Arabic
 
@@ -297,7 +307,7 @@ Health Education
 
 Basic Science
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -309,7 +319,7 @@ Mathematics
 
 Handwriting
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -321,7 +331,7 @@ Computer
 
 Mathematics
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -333,7 +343,7 @@ Civic Education
 
 Arabic
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -345,7 +355,7 @@ Basic Science
 
 Qur’an & Hadith
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 

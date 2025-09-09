@@ -1,3 +1,13 @@
+B
+R
+E
+A
+K
+F
+A
+S
+T
+
 DARUL BAYAN ACADEMY, SOKOTO
 NO. 29 ZARIA ROAD ADJACENT AL-FIJIR CLINIC, SOKOTO
 GENERAL TIMETABLE FOR JSS SECTION
@@ -32,7 +42,7 @@ English
 
 PVS
 
-BREAKFAST
+
 
 Business Studies
 
@@ -46,7 +56,7 @@ Mathematics
 
 Civic Education
 
-BREAKFAST
+
 
 Qur’an & Hadith
 
@@ -58,7 +68,7 @@ Computer Science
 
 Arabic Language
 
-BREAKFAST
+
 
 JSS 1
 
@@ -68,7 +78,7 @@ Civic Education
 
 Business Studies
 
-BREAKFAST
+
 
 JSS 2
 
@@ -95,7 +105,7 @@ Basic Science
 
 Arabic Language
 
-BREAKFAST
+
 
 English
 
@@ -103,7 +113,7 @@ Computer Science
 
 Agricultural Science
 
-BREAKFAST
+
 
 JSS 1
 
@@ -113,7 +123,7 @@ Computer Science
 
 Business Studies
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -125,7 +135,7 @@ PVS
 
 Qur’an & Hadith
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -135,7 +145,7 @@ Civic Education
 
 Agricultural Science
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -145,7 +155,7 @@ Civic Education
 
 Business Studies
 
-BREAKFAST
+
 
 Islamic Studies
 
@@ -159,7 +169,7 @@ PVS
 
 Qur’an & Hadith
 
-BREAKFAST
+
 
 Hausa Language
 
@@ -173,7 +183,7 @@ Computer Science
 
 Agricultural Science
 
-BREAKFAST
+
 
 Mathematics
 
@@ -189,7 +199,7 @@ Computer Science
 
 Business Studies
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -201,7 +211,7 @@ PVS
 
 Qur’an & Hadith
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
@@ -213,7 +223,7 @@ Civic Education
 
 Agricultural Science
 
-BREAKFAST
+
 
 EXTRACURRICULAR ACTIVITIES
 
